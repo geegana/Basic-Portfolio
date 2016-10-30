@@ -40,7 +40,7 @@ h3 {
 font-size: 22px;
 }
 /*header*/
-#mainhead {
+#mainheader {
 background: #fff;
 margin: 0 0 30px;
 z-index: 99;
@@ -51,7 +51,7 @@ position: fixed;
 width: 100%;
 }
 #logo {
-width: 250px;
+width: 450px;
 height: 90px;
 background: #4aaaa5;
 float: left;
@@ -59,7 +59,7 @@ font-family: 'Georgia', Times, Times New Roman, serif;
 text-align: center;
 line-height: 90px;
 color: #fff;
-font-weight: 700;
+font-weight: 550;
 font-size: 30px;
 text-decoration: none;
 }
