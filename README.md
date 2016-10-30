@@ -8,3 +8,4 @@
 #I will upload updated portfolio, contact HTMLs later.
 #Porfolio and contact HTMLs ready
 #Did some work, added nice pictures
+#Remote v
